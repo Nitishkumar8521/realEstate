@@ -64,7 +64,7 @@ npm install
 npm run dev
 ```
  4. Open ```http://localhost:5173 ``` in your browser.
-# 📷 UI Screenshots (Optional)
+# 📷 UI Screenshots
 - 🏠 Homepage with grid
   
    ![App Screenshot](https://github.com/Nitishkumar8521/realEstate/blob/main/frontend/public/home.jpg?raw=true)
